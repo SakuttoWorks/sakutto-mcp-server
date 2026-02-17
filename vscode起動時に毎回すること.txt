@@ -1,0 +1,3 @@
+cd Project_GHOST_SHIP/ghost-ship-proxy
+
+https://sakutto-works-ghost-ship-api.hf.space

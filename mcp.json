@@ -1,0 +1,14 @@
+{
+    "name": "ghost-ship-proxy",
+    "version": "1.0.0",
+    "description": "Project GHOST SHIP: A production-ready MCP server for autonomous AI agents, powered by Tavily and Upstash Redis.",
+    "keywords": [
+        "mcp",
+        "agent",
+        "python",
+        "cloudflare",
+        "rag"
+    ],
+    "homepage": "https://github.com/SakuttoWorks/sakutto-mcp-server",
+    "license": "MIT"
+}
